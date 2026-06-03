@@ -171,7 +171,7 @@ Mine131369/
 Open source project - MIT License
 
 ## 👨‍💻 Author
-
+Vibe Build - [AI Assisted]
 Erik Williamson - [@madd131369](https://github.com/madd131369)
 
 ## 💬 Support
