@@ -99,7 +99,7 @@ Mine131369/
 
 ## 🎯 Android 16 Compatibility
 
-✅ **API Level 35** (Android 16) target  
+✅ * *API Level 35** (Android 16) target  
 ✅ **Material Design 3** with dynamic colors  
 ✅ **AndroidX libraries** latest versions  
 ✅ **Java 11** source compatibility  
